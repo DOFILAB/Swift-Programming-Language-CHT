@@ -9,7 +9,6 @@
 >*就港台專業用詞方面 我們正就此進行研究 希望能在用詞上加入港台譯解*
 
 #Swift 程序編程語言 繁體中文版
-#The Swift Programming Language in Traditional Chinese
 
 繁體中文版 Apple 官方 Swift 教程《The Swift Programming Language》
 
