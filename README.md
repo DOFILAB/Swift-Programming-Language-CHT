@@ -9,6 +9,10 @@
 
 繁體中文版 Apple 官方 Swift 教程《The Swift Programming Language》
 
+從原來的English版本翻譯成繁體的項目
+
+#如何加入？
+https://github.com/SwiftPlus/Swift-Programming-Language-CHT/issues/2
 
 # 貢獻力量
 
@@ -29,5 +33,3 @@
 - 先搜索，編程語言的大部分術語是一樣的，可以參考[微軟官方術語搜索](http://www.microsoft.com/Language/zh-tw/default.aspx)
 - 如果以上兩條都沒有找到合適的結果，請自己決定一個適的翻譯或者直接使用英文原文，後期校對的時候會進行統一
 
-如何加入？
-https://github.com/SwiftPlus/Swift-Programming-Language-CHT/issues/2
