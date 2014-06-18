@@ -2,7 +2,7 @@
 
 >[Facebook](goo.gl/5u4iMH): http://goo.gl/5u4iMH
 
->如果你覺得這個項目不錯，請點擊[Star](https://github.com/SwiftPlus/The-Swift-Programming-Language-in-Traditional-Chinese/stargazers)一下，您的支持是我們最大的動力。
+>如果你覺得這個項目不錯，請點擊Star一下，您的支持是我們最大的動力。
 
 
 #Swift 程序編程語言 繁體中文版
