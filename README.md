@@ -5,7 +5,7 @@
 >如果你覺得這個項目不錯，請點擊Star一下，您的支持是我們最大的動力。
 
 
-#Swift 程序編程語言 繁體中文版
+#Swift 程序語言 繁體中文版
 
 繁體中文版 Apple 官方 Swift 教程《The Swift Programming Language》
 
