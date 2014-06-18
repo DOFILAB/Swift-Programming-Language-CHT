@@ -9,7 +9,7 @@
 
 繁體中文版 Apple 官方 Swift 教程《The Swift Programming Language》
 
-#*從原來的English版本翻譯成繁體的項目*
+#從原來的English版本翻譯成繁體的項目
 
 #如何加入？
 https://github.com/SwiftPlus/Swift-Programming-Language-CHT/issues/2
